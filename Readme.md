@@ -4,7 +4,6 @@ Je rappelle que j'attends
 - un passage au JPA pour le DAO
 - une utilisation de l'inversion de dépendance propre pour les factory
 - le scannage du code par SonarQube
- 
 
 Cette version repose une modélisation différente, avec
 - des tests unitaires ;
